@@ -1,6 +1,3 @@
-# Khush Agarwala
-# ICS 3UR
-# June 18th, 2018
 # Blackjack with a betting system
 
 from random import randint
